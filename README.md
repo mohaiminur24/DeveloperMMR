@@ -3,7 +3,7 @@
 
 To build my career as a software professional where I can show my skills and prove myself as a quick learner and highly qualified professional and help my community through my skills and specializations. I always look for challenges where I can use my potential at most and always love to work on cutting edge technologies.
 
-Skills: HTML/CSS/Tailwaind css/Bootstrap/js/React
+Skills: HTML/CSS/Tailwaind css/Bootstrap/javascript/React
 
 - 🌱 I’m currently learning Full struck website Development 
 
